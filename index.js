@@ -15,7 +15,7 @@ const db = mysql.createConnection({
     password: 'remoto123', // Contraseña de MySQL
     database: 'Redes',
     //port: 3306,
-    port: 17581
+    port: 14504
 });
 
 // Conectar a la base de datos
